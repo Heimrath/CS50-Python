@@ -1,6 +1,6 @@
 def main():
-    x = obter_inteiro("Qual é o valor de y? ")
-    print(f"x = {x} \n")
+    valor = obter_inteiro("Qual é o valor de x? ")
+    print(f"x = {valor} \n")
 
 
 def obter_inteiro(mensagem):
